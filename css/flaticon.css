@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -44,3 +44,5 @@
 .flaticon-stethoscope:before { content: "\f105"; }
 .flaticon-bread:before { content: "\f106"; }
 .flaticon-university:before { content: "\f107"; }
+.flaticon-flag:before { content: "\f108"; }
+.flaticon-united-states-of-america:before { content: "\f109"; }
