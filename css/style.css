@@ -438,6 +438,11 @@ pre {
     color: inherit;
     word-break: normal; }
 
+    #paypal-button {
+      text-align: center;
+      padding-top: 100px;
+    }
+
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll; }
@@ -9312,7 +9317,10 @@ textarea.form-control {
   border-radius: 10px 10px 0px 0; }
   @media (min-width: 992px) {
     .donation-wrap {
-      margin-top: -113px; } }
+      margin-top: -113px;
+      overflow: hidden;
+      background-color: rgba(0, 9, 13, 0.8);
+      background-blend-mode: soft-light; } }
   .donation-wrap .total-donate {
     background: #6EC1E4;
     padding: 25px 40px;
